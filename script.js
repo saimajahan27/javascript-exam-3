@@ -1,5 +1,5 @@
 function myFunction(){
-    document.getElementById("name").innerHTML = "Gently";
+    document.getElementById("name").innerHTML = "crazy";
 }
 
 
